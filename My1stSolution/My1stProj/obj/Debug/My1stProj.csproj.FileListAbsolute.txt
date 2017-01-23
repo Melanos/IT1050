@@ -1,0 +1,6 @@
+C:\Users\aikan\Desktop\My1stSolution\My1stProj\bin\Debug\My1stProj.exe.config
+C:\Users\aikan\Desktop\My1stSolution\My1stProj\bin\Debug\My1stProj.exe
+C:\Users\aikan\Desktop\My1stSolution\My1stProj\bin\Debug\My1stProj.pdb
+C:\Users\aikan\Desktop\My1stSolution\My1stProj\obj\Debug\My1stProj.csprojResolveAssemblyReference.cache
+C:\Users\aikan\Desktop\My1stSolution\My1stProj\obj\Debug\My1stProj.exe
+C:\Users\aikan\Desktop\My1stSolution\My1stProj\obj\Debug\My1stProj.pdb
