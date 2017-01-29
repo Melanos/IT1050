@@ -11,7 +11,6 @@
 
             int age;
             bool isCitizen;
-            //bool canVote;
             int heightFeet;
             double heightInches;
             double totalHeightsCM;
@@ -49,9 +48,9 @@
             }
             double totalHeightCM = (heightFeet * 12 + heightInches) * 2.54;
 
-            System.Console.WriteLine("" + firstName + " " + middleInitial + " " + lastName + ".");
-            System.Console.WriteLine("" + totalHeightCM + ".");
-            System.Console.WriteLine("" + canVote + ".");
+            System.Console.WriteLine("Full Name:" + firstName + " " + middleInitial + " " + lastName + ".");
+            System.Console.WriteLine("Height in cm:" + totalHeightCM + ".");
+            System.Console.WriteLine("Vote:" + canVote + ".");
             System.Console.ReadKey();
 
 
