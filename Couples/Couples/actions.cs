@@ -1,0 +1,6 @@
+﻿namespace Couples
+{
+    class actions
+    {
+    }
+}

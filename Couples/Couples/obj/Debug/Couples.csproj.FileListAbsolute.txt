@@ -1,0 +1,6 @@
+C:\Users\aikan\Desktop\Couples\Couples\bin\Debug\Couples.exe.config
+C:\Users\aikan\Desktop\Couples\Couples\obj\Debug\Couples.csprojResolveAssemblyReference.cache
+C:\Users\aikan\Desktop\Couples\Couples\bin\Debug\Couples.exe
+C:\Users\aikan\Desktop\Couples\Couples\bin\Debug\Couples.pdb
+C:\Users\aikan\Desktop\Couples\Couples\obj\Debug\Couples.exe
+C:\Users\aikan\Desktop\Couples\Couples\obj\Debug\Couples.pdb
