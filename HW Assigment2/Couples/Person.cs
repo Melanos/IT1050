@@ -10,25 +10,25 @@ namespace Couples
         public string LastName;
         public Person Spouse;
 
-        
+
         public static int Count;
-        public static int SumOfAllAges;  
+        public static int SumOfAllAges;
 
 
         public string GetFullName()
         {
             string fullName = "";
-            fullName = (this.FirstName + " " + this.LastName); 
+            fullName = (this.FirstName + " " + this.LastName);
             return fullName;
         }
 
         public static double SingleAverageAge()
         {
-        return Person.SumOfAllAges / Person.Count;
+            return Person.SumOfAllAges / Person.Count;
         }
 
         public void AskUserForNameAndAge()
-        {          
+        {
             Console.Write("First Name:  ");
             this.FirstName = Console.ReadLine();
 
@@ -41,19 +41,24 @@ namespace Couples
             Person.Count++;
             Person.SumOfAllAges += Age;
 
-          }
+        }
 
 
         public void PrintNameAndAge()
         {
-            Console.WriteLine("Full Name: " + this.GetFullName()+ " " + "Age: " + this.Age);
+            Console.WriteLine("Full Name: " + this.GetFullName() + " " + "Age: " + this.Age);
         }
 
-       public void Related()
+        public void Related()
         {
-            System.Console.WriteLine("Married? true or false:   ");
-            bool 
+            Console.WriteLine("What is her name if you are married?   ");
+            Spouse.FirstName = Console.ReadLine();
+            Spouse.LastName = this.LastName;
+
+            Console.WriteLine("How old is spouse?");
+            Spouse.Age = int.Parse(Console.ReadLine());
+
         }
-        
+
     }
 }
