@@ -1,0 +1,6 @@
+C:\Users\aikan\Desktop\LabAssignment3\LabAssignment3\bin\Debug\LabAssignment3.exe.config
+C:\Users\aikan\Desktop\LabAssignment3\LabAssignment3\obj\Debug\LabAssignment3.csprojResolveAssemblyReference.cache
+C:\Users\aikan\Desktop\LabAssignment3\LabAssignment3\bin\Debug\LabAssignment3.exe
+C:\Users\aikan\Desktop\LabAssignment3\LabAssignment3\bin\Debug\LabAssignment3.pdb
+C:\Users\aikan\Desktop\LabAssignment3\LabAssignment3\obj\Debug\LabAssignment3.exe
+C:\Users\aikan\Desktop\LabAssignment3\LabAssignment3\obj\Debug\LabAssignment3.pdb
