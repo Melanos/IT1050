@@ -1,0 +1,6 @@
+C:\Users\aikan\Desktop\MovieTheater\MovieTheater\bin\Debug\MovieTheater.exe.config
+C:\Users\aikan\Desktop\MovieTheater\MovieTheater\obj\Debug\MovieTheater.csprojResolveAssemblyReference.cache
+C:\Users\aikan\Desktop\MovieTheater\MovieTheater\bin\Debug\MovieTheater.exe
+C:\Users\aikan\Desktop\MovieTheater\MovieTheater\bin\Debug\MovieTheater.pdb
+C:\Users\aikan\Desktop\MovieTheater\MovieTheater\obj\Debug\MovieTheater.exe
+C:\Users\aikan\Desktop\MovieTheater\MovieTheater\obj\Debug\MovieTheater.pdb
