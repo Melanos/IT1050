@@ -1,6 +1,0 @@
-C:\Users\aikan\Desktop\Chess Solution\Almost Chess2\bin\Debug\Almost Chess2.exe.config
-C:\Users\aikan\Desktop\Chess Solution\Almost Chess2\bin\Debug\Almost Chess2.exe
-C:\Users\aikan\Desktop\Chess Solution\Almost Chess2\bin\Debug\Almost Chess2.pdb
-C:\Users\aikan\Desktop\Chess Solution\Almost Chess2\obj\Debug\Almost Chess2.csprojResolveAssemblyReference.cache
-C:\Users\aikan\Desktop\Chess Solution\Almost Chess2\obj\Debug\Almost Chess2.exe
-C:\Users\aikan\Desktop\Chess Solution\Almost Chess2\obj\Debug\Almost Chess2.pdb
