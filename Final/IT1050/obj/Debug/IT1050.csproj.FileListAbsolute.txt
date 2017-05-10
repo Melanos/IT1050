@@ -1,0 +1,7 @@
+C:\Users\aikan\Downloads\IT1050\IT1050\IT1050\bin\Debug\IT1050.exe
+C:\Users\aikan\Downloads\IT1050\IT1050\IT1050\bin\Debug\IT1050.pdb
+C:\Users\aikan\Downloads\IT1050\IT1050\IT1050\obj\Debug\IT1050.csprojResolveAssemblyReference.cache
+C:\Users\aikan\Downloads\IT1050\IT1050\IT1050\obj\Debug\IT1050.exe
+C:\Users\aikan\Downloads\IT1050\IT1050\IT1050\obj\Debug\IT1050.pdb
+C:\Users\aikan\OneDrive\Документы\Final\IT1050\obj\Debug\IT1050.exe
+C:\Users\aikan\OneDrive\Документы\Final\IT1050\obj\Debug\IT1050.pdb
